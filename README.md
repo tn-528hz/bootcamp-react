@@ -26,4 +26,4 @@ cd react-portfolio
 npm start
 ```
 
-4. Click http://localhost:3000
+4. Click http://localhost:3000 on terminal or Open Browser
