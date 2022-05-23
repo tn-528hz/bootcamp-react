@@ -1,0 +1,8 @@
+image: node:v12.16.0-buster
+
+tasks:
+  - init: npm install 
+
+ports:
+  - port: 3000
+    onOpen: open-preview
