@@ -6,7 +6,7 @@ Click the url below to start a new development environment
 
 https://gitpod.io/#github.com/tn-create1112/bootcamp-react
 
-Start project
+## Start project
 
 1. Install react
 
